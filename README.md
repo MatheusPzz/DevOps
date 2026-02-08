@@ -33,16 +33,6 @@ This project demonstrates:
 - Basic understanding of project structure and static resource serving
 - Awareness of where CI/CD could fit in a real workflow
 
-## 🛠 Setup & Run
-
-> Before running this project, ensure you have Node.js installed.
-
-1. Clone the repository:
-```bash
-
-git clone https://github.com/MatheusPzz/DevOps.git
-
-
 # Dev-Team
 DevOps Assignment
 
